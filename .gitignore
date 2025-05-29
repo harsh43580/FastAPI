@@ -1,0 +1,16 @@
+# 💥 Ignore Python virtual environments
+env/
+venv/
+.venv/
+
+# 🧹 Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# 🙅‍♂️ Ignore editor stuff
+.vscode/
+.idea/
+
+# 🍃 Ignore OS junk
+.DS_Store
+Thumbs.db
